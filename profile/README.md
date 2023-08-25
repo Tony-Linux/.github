@@ -1,7 +1,7 @@
 # Welcome to the Tony-Linux Open Source Community
 
 <p align="center">
-  <img src="link-to-your-logo.png" alt="Tony-Linux Logo">
+  <img src="https://avatars.githubusercontent.com/u/142707462?s=200&v=4)" alt="Tony-Linux Logo">
 </p>
 
 Tony-Linux is a vibrant open-source community committed to developing innovative and impactful Linux-based projects. We firmly believe in the power of collaboration and open development, where every individual can contribute their expertise to create exceptional software.
